@@ -1,1 +1,0 @@
-# Hands-on-12-Spark-on-AWS
